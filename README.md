@@ -9,7 +9,7 @@
 - [EHAR-GAN: Enhancing human action recognition with GAN-based data
 augmentation (SPIE 2024)](https://doi.org/10.1117/12.3021572) [[PDF]](https://prasannapulakurthi.github.io/papers/PDFs/2024_SPIE_EHAR-GAN.pdf)
 
-- A globally optimal fast iterative linear maximum likelihood classifier
+- [A globally optimal fast iterative linear maximum likelihood classifier](https://library.imaging.org/ei/articles/35/14/COIMG-172) [[PFD](https://library.imaging.org/admin/apis/public/api/ist/website/downloadArticle/ei/35/14/COIMG-172)]
 
 - UDA-FAMCD: Unsupervised Domain Adaptation using Feature Aligned
 Maximum Classifier Discrepancy (SPIE 2022) [[PDF]](https://prasannapulakurthi.github.io/papers/PDFs/2022_SPIE_UDA-FAMCD.pdf)
