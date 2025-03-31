@@ -2,9 +2,14 @@
 
 
 ## 📄 Publications
+- [Enhancing GANs with MMD Neural Architecture Search, PMish Activation Function and Adaptive Rank Decomposition](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10732016)
+
+- 
 
 - [EHAR-GAN: Enhancing human action recognition with GAN-based data
 augmentation (SPIE 2024)](https://prasannapulakurthi.github.io/papers/PDFs/SPIE_2024_EHAR-GAN.pdf)
+
+- A globally optimal fast iterative linear maximum likelihood classifier
 
 - [UDA-FAMCD: Unsupervised Domain Adaptation using Feature Aligned
 Maximum Classifier Discrepancy (SPIE 2022)](https://prasannapulakurthi.github.io/papers/PDFs/SPIE_2022_UDA-FAMCD.pdf)
