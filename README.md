@@ -4,10 +4,10 @@
 ## 📄 Publications
 - [Enhancing GANs with MMD Neural Architecture Search, PMish Activation Function and Adaptive Rank Decomposition](https://ieeexplore.ieee.org/document/10732016) [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10732016)
 
-- Enhancing GAN Performance Through Neural Architecture Search and Tensor Decomposition [[PDF]](https://prasannapulakurthi.github.io/papers/PDFs/2024_ICASSP_GANs-Tensor-Decomposition.pdf)
+- [Enhancing GAN Performance Through Neural Architecture Search and Tensor Decomposition](https://ieeexplore.ieee.org/document/10446488) [[PDF]](https://prasannapulakurthi.github.io/papers/PDFs/2024_ICASSP_GANs-Tensor-Decomposition.pdf)
 
-- EHAR-GAN: Enhancing human action recognition with GAN-based data
-augmentation (SPIE 2024) [[PDF]](https://prasannapulakurthi.github.io/papers/PDFs/2024_SPIE_EHAR-GAN.pdf)
+- [EHAR-GAN: Enhancing human action recognition with GAN-based data
+augmentation (SPIE 2024)](https://doi.org/10.1117/12.3021572) [[PDF]](https://prasannapulakurthi.github.io/papers/PDFs/2024_SPIE_EHAR-GAN.pdf)
 
 - A globally optimal fast iterative linear maximum likelihood classifier
 
