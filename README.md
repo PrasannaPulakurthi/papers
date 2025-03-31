@@ -24,4 +24,4 @@ Visit my website for more information:
 
 For research or collaboration inquiries, feel free to reach out via  
 📧 Email: pp4405@rit.edu
-🔗 [LinkedIn](https://www.linkedin.com/in/prasanna-reddy-pulakurthi/)
+🔗 [LinkedIn](https://www.linkedin.com/in/prasannapulakurthi/)
