@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://www.prasannapulakurthi.com/</loc>
+  <lastmod>2025-04-01T01:28:43+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://www.prasannapulakurthi.com/about-me</loc>
+  <lastmod>2025-04-01T01:28:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.prasannapulakurthi.com/research</loc>
+  <lastmod>2025-04-01T01:28:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.prasannapulakurthi.com/projects</loc>
+  <lastmod>2025-04-01T01:28:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.prasannapulakurthi.com/projects/3d-printed-robotic-arm</loc>
+  <lastmod>2025-04-01T01:28:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.prasannapulakurthi.com/projects/data-collection-for-shadow-detection</loc>
+  <lastmod>2025-04-01T01:28:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.prasannapulakurthi.com/projects/automatic-attendance-update-system-using-image-processing</loc>
+  <lastmod>2025-04-01T01:28:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.prasannapulakurthi.com/projects/automatic-license-plate-recognition</loc>
+  <lastmod>2025-04-01T01:28:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.prasannapulakurthi.com/publications</loc>
+  <lastmod>2025-04-01T01:28:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
+</urlset>
