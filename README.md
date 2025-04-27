@@ -1,7 +1,7 @@
 # Prasanna Reddy Pulakurthi — Research Publications
 
 
-## 📄 Publications
+## Publications
 - [Enhancing GANs with MMD Neural Architecture Search, PMish Activation Function and Adaptive Rank Decomposition (IEEE Access 2024)](https://ieeexplore.ieee.org/document/10732016) [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10732016)
 
 - [Enhancing GAN Performance Through Neural Architecture Search and Tensor Decomposition (ICASSP 2024)](https://doi.org/10.1109/ICASSP48485.2024.10446488) [[PDF]](https://prasannapulakurthi.github.io/papers/PDFs/2024_ICASSP_GANs-Tensor-Decomposition.pdf)
@@ -19,14 +19,13 @@ Maximum Classifier Discrepancy (SPIE 2022)](https://doi.org/10.1117/12.2646422) 
 - [Download Resume (PDF)](https://prasannapulakurthi.github.io/papers/resume/prasanna-reddy-pulakurthi-resume.pdf)
 
 
-## 🔗 Personal Website
+## Personal Website
 
-Visit my website for more information:  
-🌐 [https://www.prasannapulakurthi.com](https://www.prasannapulakurthi.com)
+Visit my website for more information: [https://www.prasannapulakurthi.com](https://www.prasannapulakurthi.com)
 
 
-## 📫 Contact
+## Contact
 
 For research or collaboration inquiries, feel free to reach out via  
-📧 Email: pp4405@rit.edu
-🔗 [LinkedIn](https://www.linkedin.com/in/prasannapulakurthi/)
+Email: pp4405@rit.edu
+[LinkedIn](https://www.linkedin.com/in/prasannapulakurthi/)
