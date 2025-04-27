@@ -15,7 +15,7 @@ augmentation (SPIE 2024)](https://doi.org/10.1117/12.3021572) [[PDF]](https://pr
 Maximum Classifier Discrepancy (SPIE 2022)](https://doi.org/10.1117/12.2646422) [[PDF]](https://prasannapulakurthi.github.io/papers/PDFs/2022_SPIE_UDA-FAMCD.pdf)
 
 
-# Resume
+## Resume
 - [Download Resume (PDF)](https://prasannapulakurthi.github.io/papers/resume/prasanna-reddy-pulakurthi-resume.pdf)
 
 
