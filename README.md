@@ -1,8 +1,7 @@
-# Prasanna Reddy Pulakurthi — Research Publications
+# Prasanna Reddy Pulakurthi 
 
 
 ## Publications
-## 📝 Publications
 
 ### **Effective dual-region augmentation for reduced reliance on large amounts of labeled data**  
 **Pulakurthi, P. R.**, Rabbani, M., de Melo, C. M., Dianat, S. A., & Rao, R. M.
