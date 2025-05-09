@@ -4,16 +4,16 @@
 ## Publications
 - [Effective dual-region augmentation for reduced reliance on large amounts of labeled data](https://arxiv.org/abs/2504.13077) [[PDF]](https://arxiv.org/pdf/2504.13077)[[Code]](https://github.com/PrasannaPulakurthi/Foreground-Background-Augmentation)
 
-- [Enhancing GANs with MMD Neural Architecture Search, PMish Activation Function and Adaptive Rank Decomposition (IEEE Access 2024)](https://ieeexplore.ieee.org/document/10732016) [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10732016)[[Code]](https://github.com/PrasannaPulakurthi/MMD-PMish-NAS)
+- [Enhancing GANs with MMD Neural Architecture Search, PMish Activation Function and Adaptive Rank Decomposition](https://ieeexplore.ieee.org/document/10732016) [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10732016)[[Code]](https://github.com/PrasannaPulakurthi/MMD-PMish-NAS) (IEEE Access 2024)
 
 - [Enhancing GAN Performance Through Neural Architecture Search and Tensor Decomposition (ICASSP 2024)](https://doi.org/10.1109/ICASSP48485.2024.10446488) [[PDF]](https://prasannapulakurthi.github.io/papers/PDFs/2024_ICASSP_GANs-Tensor-Decomposition.pdf)[[Code]](https://github.com/PrasannaPulakurthi/MMD-AdversarialNAS)
 
 - [EHAR-GAN: Enhancing human action recognition with GAN-based data
-augmentation (SPIE 2024)](https://doi.org/10.1117/12.3021572) [[PDF]](https://prasannapulakurthi.github.io/papers/PDFs/2024_SPIE_EHAR-GAN.pdf)[[Code]](https://github.com/PrasannaPulakurthi/EHAR-GAN)
+augmentation](https://doi.org/10.1117/12.3021572) [[PDF]](https://prasannapulakurthi.github.io/papers/PDFs/2024_SPIE_EHAR-GAN.pdf)[[Code]](https://github.com/PrasannaPulakurthi/EHAR-GAN) (SPIE 2024)
 
 - [A globally optimal fast iterative linear maximum likelihood classifier (EI 2023)](https://library.imaging.org/ei/articles/35/14/COIMG-172) [[PFD](https://library.imaging.org/admin/apis/public/api/ist/website/downloadArticle/ei/35/14/COIMG-172)]
 
-- [UDA-FAMCD: Unsupervised Domain Adaptation using Feature Aligned
+- [FAMCD: Unsupervised Domain Adaptation using Feature Aligned
 Maximum Classifier Discrepancy (SPIE 2022)](https://doi.org/10.1117/12.2646422) [[PDF]](https://prasannapulakurthi.github.io/papers/PDFs/2022_SPIE_UDA-FAMCD.pdf)[[Code]](https://github.com/PrasannaPulakurthi/FAMCD)
 
 
