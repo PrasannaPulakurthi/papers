@@ -5,7 +5,7 @@
 
 ### **Effective dual-region augmentation for reduced reliance on large amounts of labeled data**  
 **Pulakurthi, P. R.**, Rabbani, M., de Melo, C. M., Dianat, S. A., & Rao, R. M.
-[arXiv:2504.13077](https://arxiv.org/abs/2504.13077) · [PDF](https://arxiv.org/pdf/2504.13077) · [Code](https://github.com/PrasannaPulakurthi/Foreground-Background-Augmentation)
+[DOI: 10.1117/12.3058627](https://doi.org/10.1117/12.3058627) · [arXiv:2504.13077](https://arxiv.org/abs/2504.13077) · [PDF](https://arxiv.org/pdf/2504.13077) · [Code](https://github.com/PrasannaPulakurthi/Foreground-Background-Augmentation)
 
 ### **Enhancing GANs with MMD Neural Architecture Search, PMish Activation Function and Adaptive Rank Decomposition**  
 **Pulakurthi, P. R.**, Mozaffari, M., Dianat, S., Heard, J., Rao, R., & Rabbani, M.
