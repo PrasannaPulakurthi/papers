@@ -1,0 +1,159 @@
+cff-version: 1.2.0
+message: "If you use my work, please cite the relevant paper(s) below."
+title: "Publications by Prasanna Reddy Pulakurthi"
+authors:
+  - family-names: Pulakurthi
+    given-names: Prasanna Reddy
+    email: pp4405@rit.edu
+    website: https://www.prasannapulakurthi.com
+references:
+  - type: conference-paper
+    title: "Shuffle PatchMix Augmentation with Confidence-Margin Weighted Pseudo-Labels for Enhanced Source-Free Domain Adaptation"
+    authors:
+      - family-names: Pulakurthi
+        given-names: Prasanna Reddy
+      - family-names: Rabbani
+        given-names: Majid
+      - family-names: Heard
+        given-names: Jamison
+      - family-names: Dianat
+        given-names: Sohail A.
+      - family-names: de Melo
+        given-names: Celso M.
+      - family-names: Rao
+        given-names: Raghuveer M.
+    collection-title: "Proceedings of the IEEE International Conference on Image Processing (ICIP)"
+    publisher: "IEEE"
+    year: 2025
+    url: "https://arxiv.org/abs/2505.24216"
+
+  - type: conference-paper
+    title: "Effective dual-region augmentation for reduced reliance on large amounts of labeled data"
+    authors:
+      - family-names: Pulakurthi
+        given-names: Prasanna Reddy
+      - family-names: Rabbani
+        given-names: Majid
+      - family-names: de Melo
+        given-names: Celso M.
+      - family-names: Dianat
+        given-names: Sohail A.
+      - family-names: Rao
+        given-names: Raghuveer M.
+    collection-title: "Synthetic Data for Artificial Intelligence and Machine Learning: Tools, Techniques, and Applications III"
+    publisher: "SPIE"
+    year: 2025
+    doi: "10.1117/12.3058627"
+    url: "https://doi.org/10.1117/12.3058627"
+
+  - type: article
+    title: "Enhancing GANs with MMD Neural Architecture Search, PMish Activation Function, and Adaptive Rank Decomposition"
+    authors:
+      - family-names: Pulakurthi
+        given-names: Prasanna Reddy
+      - family-names: Mozaffari
+        given-names: Mahsa
+      - family-names: Dianat
+        given-names: Sohail A.
+      - family-names: Heard
+        given-names: Jamison
+      - family-names: Rao
+        given-names: Raghuveer M.
+      - family-names: Rabbani
+        given-names: Majid
+    journal: "IEEE Access"
+    publisher: "IEEE"
+    year: 2024
+    doi: "10.1109/ACCESS.2024.3485557"
+    url: "https://doi.org/10.1109/ACCESS.2024.3485557"
+
+  - type: conference-paper
+    title: "Enhancing GAN Performance Through Neural Architecture Search and Tensor Decomposition"
+    authors:
+      - family-names: Pulakurthi
+        given-names: Prasanna Reddy
+      - family-names: Mozaffari
+        given-names: Mahsa
+      - family-names: Dianat
+        given-names: Sohail A.
+      - family-names: Rabbani
+        given-names: Majid
+      - family-names: Heard
+        given-names: Jamison
+      - family-names: Rao
+        given-names: Raghuveer M.
+    collection-title: "ICASSP 2024 — IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)"
+    publisher: "IEEE"
+    year: 2024
+    pages: "7280-7284"
+    doi: "10.1109/ICASSP48485.2024.10446488"
+    url: "https://ieeexplore.ieee.org/document/10446488"
+
+  - type: conference-paper
+    title: "Enhancing human action recognition with GAN-based data augmentation"
+    authors:
+      - family-names: Pulakurthi
+        given-names: Prasanna Reddy
+      - family-names: de Melo
+        given-names: Celso M.
+      - family-names: Rao
+        given-names: Raghuveer M.
+      - family-names: Rabbani
+        given-names: Majid
+    collection-title: "Synthetic Data for Artificial Intelligence and Machine Learning: Tools, Techniques, and Applications II"
+    publisher: "SPIE"
+    volume: "13035"
+    pages: "194-204"
+    year: 2024
+    doi: "10.1117/12.3021572"
+    url: "https://doi.org/10.1117/12.3021572"
+
+  - type: article
+    title: "A globally optimal fast iterative linear maximum likelihood classifier"
+    authors:
+      - family-names: Pulakurthi
+        given-names: Prasanna Reddy
+      - family-names: Dianat
+        given-names: Sohail A.
+      - family-names: Rabbani
+        given-names: Majid
+      - family-names: You
+        given-names: Suya
+      - family-names: Rao
+        given-names: Raghuveer M.
+    journal: "Electronic Imaging"
+    publisher: "Society for Imaging Science and Technology (IS&T)"
+    volume: "35"
+    pages: "1-5"
+    year: 2023
+    doi: "10.2352/EI.2023.35.14.COIMG-172"
+    url: "https://library.imaging.org/ei/articles/35/14/COIMG-172"
+
+  - type: conference-paper
+    title: "Unsupervised domain adaptation using feature aligned maximum classifier discrepancy"
+    authors:
+      - family-names: Pulakurthi
+        given-names: Prasanna Reddy
+      - family-names: Dianat
+        given-names: Sohail A.
+      - family-names: Rabbani
+        given-names: Majid
+      - family-names: You
+        given-names: Suya
+      - family-names: Rao
+        given-names: Raghuveer M.
+    collection-title: "Applications of Machine Learning 2022"
+    publisher: "SPIE"
+    volume: "12227"
+    year: 2022
+    doi: "10.1117/12.2646422"
+    url: "https://doi.org/10.1117/12.2646422"
+
+  - type: thesis
+    title: "Shadow Detection in Aerial Images Using Machine Learning"
+    authors:
+      - family-names: Pulakurthi
+        given-names: Prasanna Reddy
+    year: 2019
+    institution: "Rochester Institute of Technology"
+    url: "https://repository.rit.edu/theses/10170/"
