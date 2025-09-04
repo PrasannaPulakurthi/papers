@@ -5,7 +5,7 @@
 ### **Shuffle Patchmix Augmentation with Confidence-Margin Weighted Pseudo-Labels for Enhanced Source-Free Domain Adaptation**
 **Prasanna Reddy Pulakurthi**, Majid Rabbani, Jamison Heard, Sohail Dianat, Celso M. de Melo, Raghuveer Rao. 
 *2025 IEEE International Conference on Image Processing (ICIP).*
-[DOI: 10.1109/ICIP55913.2025.11084606](https://doi.org/10.1109/ICIP55913.2025.11084606) · [arXiv:2504.13077](https://arxiv.org/abs/2505.24216) · [PDF](https://arxiv.org/abs/2505.24216) · [Code](https://github.com/PrasannaPulakurthi/SPM)
+[DOI: 10.1109/ICIP55913.2025.11084606](https://doi.org/10.1109/ICIP55913.2025.11084606) · [arXiv:2505.24216](https://arxiv.org/abs/2505.24216) · [PDF](https://arxiv.org/pdf/2505.24216) · [Code](https://github.com/PrasannaPulakurthi/SPM)
 
 
 ### **Effective dual-region augmentation for reduced reliance on large amounts of labeled data**  
