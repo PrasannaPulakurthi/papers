@@ -2,6 +2,11 @@
 
 ## Publications
 
+### **X-CoT: Explainable Text-to-Video Retrieval via LLM-based Chain-of-Thought Reasoning**
+**Prasanna Reddy Pulakurthi**, Jiamian Wang, Majid Rabbani, Sohail Dianat, Raghuveer Rao, Zhiqiang Tao.
+*EMNLP 2025* (Main Conference).
+[[arXiv]](https://arxiv.org/abs/2509.21559) · [[PDF]](https://arxiv.org/pdf/2509.21559) · [[Code]](https://github.com/PrasannaPulakurthi/X-CoT) · [[Project Page]](https://prasannapulakurthi.github.io/X-CoT/)
+
 ### **Shuffle Patchmix Augmentation with Confidence-Margin Weighted Pseudo-Labels for Enhanced Source-Free Domain Adaptation**
 **Prasanna Reddy Pulakurthi**, Majid Rabbani, Jamison Heard, Sohail Dianat, Celso M. de Melo, Raghuveer Rao. 
 *2025 IEEE International Conference on Image Processing (ICIP).*
