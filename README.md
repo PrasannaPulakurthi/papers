@@ -2,6 +2,11 @@
 
 ## Publications
 
+### **Advancements in ML via Efficient Generative Modeling, Robust Domain Adaptation, and Explainable Multimodal Retrieval**
+**Prasanna Reddy Pulakurthi**.
+Thesis. Rochester Institute of Technology. Accessed from [https://repository.rit.edu/theses/12374](https://repository.rit.edu/theses/12374)
+
+
 ### **X-CoT: Explainable Text-to-Video Retrieval via LLM-based Chain-of-Thought Reasoning**
 **Prasanna Reddy Pulakurthi**, Jiamian Wang, Majid Rabbani, Sohail Dianat, Raghuveer Rao, Zhiqiang Tao.
 *EMNLP 2025* (Main Conference).
@@ -11,7 +16,6 @@
 **Prasanna Reddy Pulakurthi**, Majid Rabbani, Jamison Heard, Sohail Dianat, Celso M. de Melo, Raghuveer Rao. 
 *2025 IEEE International Conference on Image Processing (ICIP).*
 [[IEEE Xplore]](https://doi.org/10.1109/ICIP55913.2025.11084606) · [[arXiv]](https://arxiv.org/abs/2505.24216) · [[PDF]](https://arxiv.org/pdf/2505.24216) · [[Code]](https://github.com/PrasannaPulakurthi/SPM)
-
 
 ### **Effective dual-region augmentation for reduced reliance on large amounts of labeled data**  
 **Prasanna Reddy Pulakurthi**, Majid Rabbani, Celso M. de Melo, Sohail A. Dianat, and Raghuveer M. Rao.
