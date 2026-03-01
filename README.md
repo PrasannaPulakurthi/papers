@@ -4,7 +4,7 @@
 
 ### **Advancements in ML via Efficient Generative Modeling, Robust Domain Adaptation, and Explainable Multimodal Retrieval**
 **Prasanna Reddy Pulakurthi**.
-Thesis. Rochester Institute of Technology. Accessed from [https://repository.rit.edu/theses/12374](https://repository.rit.edu/theses/12374)
+Thesis. Rochester Institute of Technology. Accessed from [[PDF]](https://repository.rit.edu/cgi/viewcontent.cgi?article=13522&context=theses) [[Presentation]](https://prasannapulakurthi.github.io/papers/PDFs/Prasanna_PHD_Dissertation.pdf)
 
 
 ### **X-CoT: Explainable Text-to-Video Retrieval via LLM-based Chain-of-Thought Reasoning**
